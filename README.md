@@ -1,6 +1,5 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijima-john&layout=compact&show_icons=true&theme=cobalt" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nijimajohn&theme=cobalt&show_icons=ture" />
 </p>
 
 <h3 align="left">得意ツール:</h3>
